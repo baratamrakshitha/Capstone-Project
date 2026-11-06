@@ -1,0 +1,16 @@
+============================================================
+ISOLATION FOREST EVALUATION RESULTS (OPS-SAT-AD BENCHMARK)
+============================================================
+
+Accuracy                 : 0.6919
+Precision                : 0.2768
+Recall                   : 0.2743
+F1-score                 : 0.2756
+MCC                      : 0.0799
+ROC-AUC                  : 0.6325
+Average_Precision_PR_AUC : 0.3737
+True_Negatives           : 335
+False_Positives          : 81
+False_Negatives          : 82
+True_Positives           : 31
+Test_Samples_Total       : 529

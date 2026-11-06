@@ -1,0 +1,8 @@
+Metric,Random Forest,Isolation Forest,XGBoost,Best Model
+Accuracy,0.9679,0.6919,0.9603,Random Forest
+Precision,0.98,0.2768,0.9107,Random Forest
+Recall,0.8673,0.2743,0.9027,XGBoost
+F1-score,0.9202,0.2756,0.9067,Random Forest
+MCC,0.9028,0.0799,0.8815,Random Forest
+ROC-AUC,0.9903,0.6325,0.9897,Random Forest
+Average Precision (AP),0.9728,0.3737,0.9705,Random Forest

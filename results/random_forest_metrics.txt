@@ -1,0 +1,16 @@
+============================================================
+RANDOM FOREST EVALUATION RESULTS (OPS-SAT-AD BENCHMARK)
+============================================================
+
+Accuracy            : 0.9679
+Precision           : 0.9800
+Recall              : 0.8673
+F1-score            : 0.9202
+MCC                 : 0.9028
+ROC-AUC             : 0.9903
+PR-AUC              : 0.9728
+True_Negatives      : 414
+False_Positives     : 2
+False_Negatives     : 15
+True_Positives      : 98
+Test_Samples_Total  : 529

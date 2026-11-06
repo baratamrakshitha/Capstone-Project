@@ -1,0 +1,14 @@
+{
+    "Accuracy": 0.6918714555765595,
+    "Precision": 0.2767857142857143,
+    "Recall": 0.2743362831858407,
+    "F1-score": 0.27555555555555555,
+    "MCC": 0.0798834662525433,
+    "ROC-AUC": 0.6325306330837304,
+    "Average_Precision_PR_AUC": 0.37368627240740115,
+    "True_Negatives": 335,
+    "False_Positives": 81,
+    "False_Negatives": 82,
+    "True_Positives": 31,
+    "Test_Samples_Total": 529
+}

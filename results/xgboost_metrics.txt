@@ -1,0 +1,16 @@
+============================================================
+XGBOOST EVALUATION RESULTS (OPS-SAT-AD BENCHMARK)
+============================================================
+
+Accuracy                 : 0.9603
+Precision                : 0.9107
+Recall                   : 0.9027
+F1-score                 : 0.9067
+MCC                      : 0.8815
+ROC-AUC                  : 0.9897
+Average_Precision_AP     : 0.9705
+True_Negatives           : 406
+False_Positives          : 10
+False_Negatives          : 11
+True_Positives           : 102
+Test_Samples_Total       : 529
